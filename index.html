@@ -13,7 +13,7 @@
 			padding: 0;
 			display: flex;
 			align-items: center;
-			justify-content: center;
+			/* justify-content: center; */
 			flex-direction: column;
 			background-color: #222222;
 			color: #CCCCCC;
@@ -25,7 +25,8 @@
 		}
 
 		#topBar {
-			width: 90%;
+			padding-top: 20px;
+			width: calc(100% - 40px);
 			display: block;
 		}
 
@@ -105,8 +106,8 @@
 			animation-direction: normal;
 		}
 
-		#content {
-			width: 90%;
+		.content {
+			width: calc(100% - 50px);
 			padding-top: 20px;
 			padding-left: 20px;
 		}
@@ -120,7 +121,12 @@
 			</div>
 		</button>
 	</div>
-	<div id="content">
+	<div class="content" style="text-align: center;">
+		<p class="sc">网站正在施工中...还没建设完嘤</p>
+		<p class="tc">網站正在施工中...還沒建設完嚶</p>
+		<p class="en">Website is under construction... Not yet finished building QwQ</p>
+	</div>
+	<div class="content">
 		<p class="sc">关于语言：</p>
 		<p class="tc">關於語言：</p>
 		<p class="en">About Language: </p>
@@ -136,7 +142,18 @@
 			else{
 				lanFlag = 0
 			}
-			console.log("首选语言更改为：" + lanList[lanFlag])
+			
+			if(lanFlag == 0){
+				console.log("首选语言更改为简体中文 - " + lanList[lanFlag])
+			}
+			else if(lanFlag == 1){
+				console.log("首選語言更改為繁體中文 - " + lanList[lanFlag])
+			}
+			else if(lanFlag == 2){
+				console.log("Preferred language changed to English - " + lanList[lanFlag])
+			}
+			
+			
 			for(var i = 0;i < lanList.length;i++){
 				var content = document.getElementsByClassName(lanList[i])
 				var i2
