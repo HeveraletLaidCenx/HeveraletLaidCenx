@@ -13,7 +13,7 @@
 
 :crescent_moon:简体中文【SC】完全ok，繁體【TC】可能有一些字難以直接認出來， for Eng【EN】, not good at Eng grammar but maybe can deal with some communication XD.
 
-## :seedling:兴趣 | Interests
+## :seedling: 兴趣 | Interests
 
 包括但不限于 | Including but not limited to：
 
@@ -29,21 +29,23 @@
 |可爱的毛茸茸（逃|Cute furry (Run away|
 |...|...|
 
-## :computer:怎么联系咱 | How 2 Reach Me
+## :computer: 怎么联系咱 | How 2 Reach Me
 
 :email:
 
-电子邮箱：  
-E-mail Address：
+【SC】电子邮箱：  
+【EN】E-mail Address：
 
 > 3020759526@qq.com
 
-## :coffee:请咱杯咖啡？ | Buy me a coffee?
+## :coffee: 请咱杯咖啡？ | Buy me a coffee?
 
-如果您想捐助支持我的话……  
-If you want to donate to support me ...
+【SC】如果您想捐助支持我的话……  
+【EN】If you want to donate to support me ...
 
 :x:
 
-猫猫不能喝咖啡！但是有您的帮助的话，咱可以去买小鱼干~  
-Cats can't drink coffee! But with your help, I can go buy some small dried fish ~
+【SC】猫猫不能喝咖啡！但是有您的帮助的话，咱可以去买小鱼干~  
+【EN】Cats can't drink coffee! But with your help, I can go buy some small dried fish ~
+
+:heart:
