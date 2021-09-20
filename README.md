@@ -1,6 +1,6 @@
 # :cat: 喵！Meow! Nya~
 
-:link:[来看看我的主页喵？| Why not have a look at my homepage XD](https://heveraletlaidcenx.github.io/HeveraletLaidCenx/)
+:link:[【建设中】来看看我的主页喵？| [Under Building] Why not have a look at my homepage XD](https://heveraletlaidcenx.github.io/HeveraletLaidCenx/)
 
 ------
 
